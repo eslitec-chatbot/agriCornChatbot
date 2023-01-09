@@ -16,8 +16,8 @@
         "cors": "^2.8.5",
         "dialogflow-fulfillment": "^0.6.1",
         "facebookgraph": "^0.4.0",
-        "firebase-admin": "^7.0.0",
-        "firebase-functions": "^3.0.2",
+        "firebase-admin": "^11.4.1",
+        "firebase-functions": "^3.24.1",
         "install": "^0.12.2",
         "linebot": "^1.5.1"
     },
